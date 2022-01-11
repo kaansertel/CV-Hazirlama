@@ -17,7 +17,8 @@ bash Cv_Hazirlama.sh
 
 ## Uygulamadan Ekran Görüntüleri
 
-`Başlangıç Ekran Görüntüsü:                                    `
+`Başlangıç Ekran Görüntüsü:`
+
 ![Başlangıç](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/Cv_Haz%C4%B1rlama2.png)
 
 `Kişisel Bilgileri Alma Ekranı:`
