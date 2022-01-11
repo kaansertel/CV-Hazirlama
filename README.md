@@ -4,7 +4,7 @@ Linux Araçları ve Kabuk Programlama dersi kapsamında,`Shell script` ve `Zenit
 ## Açıklama
 Kullanıcının bilgileri `GUI` bileşenler tarafından alınarak kullanıcının farklı `CSS` ler seçmesine izin verildi ve aynı zamanda kullanıcının seçtiği `CSS` kullanılarak aynı dizin altında `HTML formatında CV üreten bir uygulama` geliştirilmiştir.
 
-## Uygulama Anlatım:
+## Uygulama Anlatım Videosu
 - <https://youtu.be/zV4w1G-Z2bQ>
 
 ## Uygulamayı Çalıştırmak
