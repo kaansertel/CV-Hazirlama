@@ -51,10 +51,13 @@ bash Cv_Hazirlama.sh
 ![Dosya Oluşturma](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/Cv_Haz%C4%B1rlama11.png)
 
 ## CV Dosyası Ekran Görüntüleri
-`CV Dosyaları:`
+### Tasarımlar
+`1. Tasarım:`
 
 ![CV Dosya](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/Cv_Haz%C4%B1rlama12.png)
 
+
+`2. Tasarım:`
 ![CV Dosya](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/Cv_Haz%C4%B1rlama13.png)
 
 
