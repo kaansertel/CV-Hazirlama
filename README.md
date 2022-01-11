@@ -13,6 +13,7 @@ bash Cv_Hazirlama.sh
 ```
 
 `Uygulamayı Çalıştırma:`
+
 ![Çalıştırmak](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/Cv_Haz%C4%B1rlama1.png)
 
 ## Uygulamadan Ekran Görüntüleri
