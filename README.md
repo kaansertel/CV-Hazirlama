@@ -28,7 +28,7 @@ bash Cv_Hazirlama.sh
 
 ### Lisans yazısı
 - https://github.com/kaansertel/CV-Hazirlama/blob/main/License.txt
-- 
+
 ```sh
              CV Hazırlama Genel Topluluk Lisansı
              Version 1, Ocak 2022
