@@ -84,12 +84,12 @@ Bu CV hazırlama  programı ile ilgili ilk versiyondur.
 
 ## CV Dosyası Ekran Görüntüleri
 ### Tasarımlar
-`1. Tasarım:`
+`1. Tasarım(Amazing):`
 
 ![CV Dosya](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV18.png)
 
 
-`2. Tasarım:`
+`2. Tasarım(Average):`
 
 ![CV Dosya](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV19.png)
 
