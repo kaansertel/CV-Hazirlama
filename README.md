@@ -26,6 +26,20 @@ bash Cv_Hazirlama.sh
 
 ![Lisans](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV03.png)
 
+### Lisans yazısı
+- https://github.com/kaansertel/CV-Hazirlama/blob/main/License.txt
+- 
+```sh
+             CV Hazırlama Genel Topluluk Lisansı
+             Version 1, Ocak 2022
+             
+Copyright(C) 2022 Github/kaansertel
+
+Herkesin bu lisans belgesinin bire bir kopyalarını kopyalamasına ve dağıtmasına izin verilir, ancak değiştirilmesine izin verilmez.
+
+Bu CV hazırlama  programı ile ilgili ilk versiyondur.
+```
+
 `Kişisel Bilgileri Alma Ekranı:`
 
 ![KişiselBilgiler](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV04.png)
