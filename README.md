@@ -62,7 +62,7 @@ bash Cv_Hazirlama.sh
 
 ![Dosya Oluşturma](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV15.png)
 
-![Dosya Oluşturma](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV16.png
+![Dosya Oluşturma](https://github.com/kaansertel/CV-Hazirlama/blob/main/resimler/CV16.png)
 
 `Notifikasyon:`
 
