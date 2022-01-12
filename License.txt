@@ -1,0 +1,8 @@
+             CV Hazırlama Genel Topluluk Lisansı
+             Version 1, Ocak 2022
+             
+Copyright(C) 2022 Github/kaansertel
+
+Herkesin bu lisans belgesinin bire bir kopyalarını kopyalamasına ve dağıtmasına izin verilir, ancak değiştirilmesine izin verilmez.
+
+Bu CV hazırlama  programı ile ilgili ilk versiyondur.
